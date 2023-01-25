@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Canino</string>
+    <string name="result_format">if you were a dog, you would be %d years old </string>
+    <string name="calcular">Calcular</string>
+    <string name="how_old_are_you">How Old are You?</string>
+    <string name="ingresar_mi_edad">Ingresar mi Edad</string>
+
+</resources>
