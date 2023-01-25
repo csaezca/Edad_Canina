@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
 */
         TextView resultado = binding.resultado;
 /*
-        Button boton_calcular =findViewById(R.id.btn_calcular);
+        Button boton_calcular =findViewById(R.id.btn_calcular); dsdsdsd
 */
         Button boton_calcular =binding.btnCalcular;
 
